@@ -1,0 +1,182 @@
+Manifest-Version: 1.0
+
+Name: Background.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 14kLxlUebbGVpP1oPc32NA==
+SHA1-Digest: bMt8DXxNMu95xz7u0c+iNIs9Abw=
+
+Name: lang-en.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XkvIy+HDrj6uu11BM8kPQA==
+SHA1-Digest: Os5INH/bqBRUK6TbNv6ON4D61UY=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tkwQrSbhnxTiRgcfgeAeRg==
+SHA1-Digest: oqR6MzhV2ZB1O8l5ke8tQ7BVxpo=
+
+Name: screen.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yv8XpSy21jA+WP6Fa8xgmw==
+SHA1-Digest: er3zXUYk4/sZVmMsjU1fLUC87RI=
+
+Name: css/main.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J8OrXFpiQHXB89vOaxgJQw==
+SHA1-Digest: IciqYWGgVl/Lk0RJzwZHExlH9i4=
+
+Name: css/main.min.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u9QbWfxIoz1OkzFqN7U5zA==
+SHA1-Digest: tbHbkN3u5KPPPvyCG2CcYy6Lazc=
+
+Name: css/screen.min.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a7Uvf8Kt+Ob7O7YKyhDSyA==
+SHA1-Digest: jX2bno1ejJgW2JaNGmokHRqu3kU=
+
+Name: images/arrow-back-20.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uyvqSSw8aT0s5BSOEmN+cA==
+SHA1-Digest: AwT4v3kvR6n3HCkUGcrne9/tJhA=
+
+Name: images/arrow-forward-20.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JCABSPiJ+vIpGIWIQDLE1g==
+SHA1-Digest: 0RhFK1wucCouZSjNIVVyfsEHDd0=
+
+Name: images/B-curve-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qL/Aw22WVihZj972MsO0+A==
+SHA1-Digest: T0EaA4UtQVU0KLxNim0wgyuocV0=
+
+Name: images/back.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tOEVkprHd64EsCvuB9GVkw==
+SHA1-Digest: 2VXJNlwcN/RGlw89OMu4+26samo=
+
+Name: images/black_cursor.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X2Ow2ewAxBp2D1BdFaqq6w==
+SHA1-Digest: dYNijBsd2z6gq0NDRSjxpFtbNXA=
+
+Name: images/color_dropper.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WLie7H+OKshpufGwarDsUg==
+SHA1-Digest: oZ60bWJmT0sOgE6/XHmEqD2QGns=
+
+Name: images/cursor-xxl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w05Eu+aVQY0mbjHsSne4cg==
+SHA1-Digest: ETjxRdeTIcnB9FEf0pXYgBQYDL4=
+
+Name: images/Editing-Edit-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dK2UIRWOTT4sbPveylFWUw==
+SHA1-Digest: vvupemPJqlajyqnNOnT1nau81Uc=
+
+Name: images/Editing-Ellipse-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eZEDjx/gzoMbSt/gBeegsg==
+SHA1-Digest: UF4uEP46ZxUPA873mEUrrMY38+U=
+
+Name: images/Editing-Eraser-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QRQ/cjBwkQJ7swx2GzA16g==
+SHA1-Digest: V2s3ssLpl+djvh9RZ6SUm71yANo=
+
+Name: images/Editing-Line-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RW9olAWLY3Ek8MDxjjZ2Pg==
+SHA1-Digest: ERj5maGzOkZyqmbJneHUIZi8exw=
+
+Name: images/Editing-Rectangle-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 01tjQ7N11Az0vUbBxEu8TA==
+SHA1-Digest: hqwlFIdtjQTq0jVw0I0D4VcuejE=
+
+Name: images/Editing-Type-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lV/5KXh2fNj0yeS5ffxFRQ==
+SHA1-Digest: kDFmF76iZsxL2Y6cb1j6QWzp0qQ=
+
+Name: images/eraser.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BHArmLengcuGaspRQXDGFg==
+SHA1-Digest: ZqnM1wJ89H2TCbSpl674wRdSDN0=
+
+Name: images/exit.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S6UxSAf1OavWP70tg6s1Hg==
+SHA1-Digest: 0vA3WBNyRqt9/mahIItSFJX9loU=
+
+Name: images/forward.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Zcb2GiAbtZ+O5TMAfByCYg==
+SHA1-Digest: CPSHUX5MKG/cIl5bHaGHLk794Rc=
+
+Name: images/icon128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pqSfoJ2DSXjhCeIXvaLPvg==
+SHA1-Digest: c0XtCMQVrSrtWfE0plZm3ee8DJA=
+
+Name: images/icon16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4OFEICM8MuNPPbdRsnozkw==
+SHA1-Digest: rEfJR8e7gsnngy9Rm02/irbbK5I=
+
+Name: images/icon38.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4DO6AdYOwRWRwwMM00VD5w==
+SHA1-Digest: sGqp7NSMAl1KysXmHbWyaQG8meA=
+
+Name: images/icon48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7MZE9ztfT/tG62IyW0g5sw==
+SHA1-Digest: yWmm/XFms1Qq6707DdBDlBTeJyg=
+
+Name: images/icon_target.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uX7unFKTKS7A46WXhJ4XTw==
+SHA1-Digest: zckaA8zCigcwKp/vwxVG/yC+z2I=
+
+Name: images/Maps-Polygon-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vdSi7WwlkS5qC747Jw3BaQ==
+SHA1-Digest: ojQx8oQBr20C4wwpwzfsIpE864E=
+
+Name: images/paint-bucket.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cBoHjyj+9kvdYB3Y4Z1orQ==
+SHA1-Digest: K5IggYWtqTX98DJgmP+ANkC5peg=
+
+Name: images/pencil-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BgJ5QIpQFOhVjawCKev4RA==
+SHA1-Digest: 5qkmQgGPABUvIQkAdsj0AnK8OdY=
+
+Name: images/Q-curve-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fsFDj8S1FNAbSfNZrdRQPA==
+SHA1-Digest: 2Is5HLCWeopTufWJwdXjCKlPwNc=
+
+Name: images/screenshot.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lv6kcbXhAJCZCj9g5AHcbw==
+SHA1-Digest: KVLzQ+0nDkW8xVmeO7duDv8pkk0=
+
+Name: js/Background.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yGuYK6aAX9Esgc66nRExJg==
+SHA1-Digest: cVmn6uQHvdIhAyn4UhAtcVTOqoQ=
+
+Name: js/inject.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6zc3PmgLAfte6HGFSjJSEw==
+SHA1-Digest: zGmelWSSLCP2zZW3z+2wZHbq+q0=
+
+Name: js/screen.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lW+/Hbs8mGO0dXg8bdCH6w==
+SHA1-Digest: jtAbfGn2SkkFdkDNtDCt0eW4zn4=
+
